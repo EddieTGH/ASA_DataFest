@@ -1,4 +1,6 @@
-# ASA_DataFest
+# 2024 Duke American Statistics Association DataFest
+
+## Recognition: Finalist (Top 8)
 
 [See Presentation] (https://github.com/EddieTGH/ASA_DataFest/blob/main/Presentation/DataX.pdf)
 
