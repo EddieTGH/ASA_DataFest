@@ -1,4 +1,4 @@
-# 2024 Duke American Statistics Association DataFest (https://dukestatsci.github.io/datafest/) [![Alt Text](2024 Duke American Statistics Association DataFest)](https://dukestatsci.github.io/datafest/)
+# 2024 Duke American Statistics Association DataFest (https://dukestatsci.github.io/datafest/) [!(2024 Duke American Statistics Association DataFest)](https://dukestatsci.github.io/datafest/)
 
 
 ## Recognition: Finalist (Top 8)
