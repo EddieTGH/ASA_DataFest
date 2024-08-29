@@ -1,8 +1,8 @@
-# 2024 Duke American Statistics Association DataFest (https://dukestatsci.github.io/datafest/) [!(2024 Duke American Statistics Association DataFest)](https://dukestatsci.github.io/datafest/)
+# [2024 Duke American Statistics Association DataFest](https://dukestatsci.github.io/datafest/)
 
 
 ## Recognition: Finalist (Top 8)
 
-[See Presentation] (https://github.com/EddieTGH/ASA_DataFest/blob/main/Presentation/DataX.pdf)
+### [See Presentation](https://github.com/EddieTGH/ASA_DataFest/blob/main/Presentation/DataX.pdf)
 
-[See PyTorch Deep Learning Neural Network Implementation] (https://github.com/EddieTGH/ASA_DataFest/blob/main/A_ML%20Model%202%20Inputs.ipynb)
+### [See PyTorch Deep Learning Neural Network Implementation](https://github.com/EddieTGH/ASA_DataFest/blob/main/A_ML%20Model%202%20Inputs.ipynb)
